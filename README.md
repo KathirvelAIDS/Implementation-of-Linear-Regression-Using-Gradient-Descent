@@ -32,6 +32,13 @@ End the program.
 
 ## Program:
 ```
+NAME:KATHIRVEL.A
+REG NO:2122212300447
+```
+
+
+
+```
 */
 import numpy as np
 import matplotlib.pyplot as plt
@@ -108,6 +115,20 @@ OUTPUT:
 
 
 ![image](https://user-images.githubusercontent.com/94911373/229690380-fc4fefa0-5eea-44cf-88ed-e700d48b07f4.png)
+
+
+![image](https://user-images.githubusercontent.com/94911373/229690737-3a9498ed-7841-4942-8d1c-ec147955a4e5.png)
+
+
+
+![image](https://user-images.githubusercontent.com/94911373/229690770-c354c153-6a46-4a54-b84e-267d043cde1a.png)
+
+
+![image](https://user-images.githubusercontent.com/94911373/229690801-cb98acf9-356c-4d2f-ab8b-13c718805dcb.png)
+
+
+![image](https://user-images.githubusercontent.com/94911373/229690819-a088cb5d-2d65-4a19-98a6-928a4163b69a.png)
+
 
 
 ## Result:
