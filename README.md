@@ -112,29 +112,50 @@ print("For population = 70,000, we predict a profit of $"+str(round(predict2,0))
 OUTPUT:
 
 
+data:
+
+![image](https://github.com/KathirvelAIDS/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/94911373/571b3612-2357-4807-b9f4-d51c7aec3074)
 
 
-![image](https://user-images.githubusercontent.com/94911373/229690380-fc4fefa0-5eea-44cf-88ed-e700d48b07f4.png)
+X values:
 
 
-![image](https://user-images.githubusercontent.com/94911373/229690737-3a9498ed-7841-4942-8d1c-ec147955a4e5.png)
-
-
-
-![image](https://user-images.githubusercontent.com/94911373/229690770-c354c153-6a46-4a54-b84e-267d043cde1a.png)
-
-
-
-![image](https://user-images.githubusercontent.com/94911373/229691246-4138d890-7904-428b-ac27-972f82b614df.png)
-
-
-![image](https://user-images.githubusercontent.com/94911373/229690801-cb98acf9-356c-4d2f-ab8b-13c718805dcb.png)
+![image](https://github.com/KathirvelAIDS/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/94911373/ef6eba23-9482-42ba-8646-c0718321c5d7)
 
 
 
 
+Y values:
 
-![image](https://user-images.githubusercontent.com/94911373/229690819-a088cb5d-2d65-4a19-98a6-928a4163b69a.png)
+
+
+![image](https://github.com/KathirvelAIDS/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/94911373/3f046fad-7ef0-4161-944b-bb8ebd9bffa6)
+
+
+
+
+
+X scaled
+
+
+![image](https://github.com/KathirvelAIDS/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/94911373/31dffe8f-ff6f-470d-b750-d5c9cffe465a)
+
+
+y scaled
+
+
+
+
+![image](https://github.com/KathirvelAIDS/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/94911373/23e78892-0cec-4149-a007-74b5a826a25e)
+
+
+
+
+Predicted value
+
+
+
+![image](https://github.com/KathirvelAIDS/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/94911373/aea00954-fe9f-4e14-8f4a-dc521e9ac57e)
 
 
 
